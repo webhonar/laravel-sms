@@ -1,6 +1,6 @@
 {
-    "name": "matthewbdaly/laravel-sms",
-    "description": "A Laravel and Lumen integration for matthewbdaly/sms-client to enable sending SMS messages",
+    "name": "webhonar/laravel-sms",
+    "description": "A Laravel and Lumen integration for webhonar/sms-client to enable sending SMS messages",
     "type": "library",
     "keywords": ["sms","laravel","lumen"],
     "require": {
@@ -17,8 +17,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Matthew Daly",
-            "email": "matthewbdaly@gmail.com"
+            "name": "Mohammad Sadegh Mohaghegh",
+            "email": "mohaghegh.ms@gmail.com"
         }
     ],
     "autoload": {
